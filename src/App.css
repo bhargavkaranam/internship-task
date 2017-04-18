@@ -1,0 +1,30 @@
+.bookCard
+{
+  height: 150px;
+  width: 150px;
+  background: #212121;
+  color:#fff;
+  text-align: center;
+}
+.bookCard a
+{
+  color: inherit;
+  text-decoration: none;
+  margin-right: 5px;
+
+}
+.bookCard img
+{
+  height: auto;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bookCard h1
+{
+  color: #FFF;
+  font-size: 15px;
+  text-align: center;
+}
